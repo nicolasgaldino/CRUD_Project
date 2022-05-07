@@ -22,7 +22,6 @@ por uma concessionária de porte médio, para implementar o sistema descrito aba
 • permitir a consulta de uma venda específica, incluindo o cliente e motocicleta
 relacionada a mesma;<br>
 ### OBS:
-• A AP3 é uma continuação da AP2;<br>
 • Deve-se implementar:;<br>
 • Tratamento de exceções(Opcional);<br>
 • Manipulação de Arquivos ou Banco de Dados(opcional);<br>
