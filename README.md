@@ -34,3 +34,6 @@ implementado.
 Banco de Dados feito usando SQLite;<br>
 Interface gráfica feita com Tkinter;<br>
 Execução do programa através do arquivo 'main.py';<br>
+### Considerações Finais
+A modelagem do banco não está das melhores, a priori foquei apenas em torná-lo funcional e garantir a entrega do mesmo.<br>
+Demais detalhes e correções (se necessários), serão implementados ao longo do tempo.
